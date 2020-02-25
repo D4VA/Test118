@@ -1,0 +1,9 @@
+	Inciso 1 a 3
+	Fue implementado el Lenguaje Java Script
+1. Abrir el archivo "test.html" y abrir consola del navegador
+2. puede ejecutar la funcion llamandola y poniendole un valor predeterminador
+
+Inciso 4
+	fue implementado visual studio
+1. EL juego tiene un acceso directo llamado "WindowsApplication2.exe - Acceso directo"
+2. puede seleccionar el modo de juego, estan detallado los incisos adentro del juego.
