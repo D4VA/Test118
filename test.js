@@ -1,7 +1,7 @@
 Number.prototype.bin2dec = function() {
 	var DBinary = this.toString(10);
 	for(var i = 0; i < DBinary.length; i++) {
-		if(sBinary.charAt(i) != "0" && DBinary.charAt(i) != "1")
+		if(DBinary.charAt(i) != "0" && DBinary.charAt(i) != "1")
 			return false;
 	}
 	var bin = DBinary;
@@ -18,7 +18,9 @@ Number.prototype.bin2dec = function() {
 	return Number(dec);
 }
 
-bin2dec();
+var num = 100111;
+alert(num.bin2dec());
+
 // ----------------------------------------------------------------------------------------------------
 // ----------------------------------------------------------------------------------------------------
 // ----------------------------------------------------------------------------------------------------

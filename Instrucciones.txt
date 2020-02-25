@@ -5,5 +5,12 @@
 
 Inciso 4
 	fue implementado visual Basic
-1. EL juego tiene un acceso directo llamado "WindowsApplication2.exe - Acceso directo"
-2. puede seleccionar el modo de juego, estan detallado los incisos adentro del juego.
+1. Entrar a la carpeta WindowsApplication2
+2. Luego hay un documento form1.vb, y ahi esta el codigo con el que fue realizado el juego.
+3. EL juego tiene un acceso directo llamado "WindowsApplication2.exe - Acceso directo", este esta en al entrar a la carpeta.
+4. Puede seleccionar el modo de juego, estan detallado los incisos adentro del juego.
+5. En opciones Generales, puede reiniciar el marcador para que se puntue 0-0
+6. Puede Iniciar un nuevo juego con "Juego nuevo"
+7. Puede Cerrar el juego en opciones Generales
+8. Modo de juego, usted podra, iniciar una partida con un amigo, o contra la maquina por distintos niveles de dificultad
+   indicados por nivel.
